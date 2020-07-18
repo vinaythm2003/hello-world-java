@@ -20,6 +20,8 @@ Notice that `System.out.println("Hello world!");` shows the string `"Hello world
 
 To compile the "Hello World" program, type the following:
 
+Trigger with Jenkin
+
 ```console
 javac HelloWorld.java
 ```
